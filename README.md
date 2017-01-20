@@ -12,12 +12,12 @@ Pre-requisites
 
 Screenshots
 -------------
+ icon|basic|expanded
+:-:|:-:|:-:
+![](screenshots/notification-1.png)|![](screenshots/notification-2.png)|![](screenshots/notification-3.png)
 
-<img src="screenshots/notification-1.png" height="400" alt="Screenshot"/> 
-<img src="screenshots/notification-2.png" height="400" alt="Screenshot"/> 
-<img src="screenshots/notification-3.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
-This sample uses the Gradle build system. To build this project, use the
+This starter uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
