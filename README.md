@@ -1,7 +1,7 @@
 Blocktix Android Starter
 ========================
 
-What the title says, the start of the android app, nothing more... We just have a notification in it.
+What the title says, the start of the android app, nothing more... We just have a notification in it - promotional purposes for now.
 
 Pre-requisites
 --------------
